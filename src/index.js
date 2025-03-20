@@ -19,10 +19,10 @@ const setupAndStartServer = () => {
         console.log(`Server started at PORT ${PORT}`);
         setupJobs();
         // sendBasicEmail(
-        //     "Support<AirlineSupport>",
-        //     "siddhu27112004@gmail.com",
+        //     "The Goat<AirlineSupport>",
+        //     "hucaimth062005@gmail.com",
         //     "Testing the working of email sending",
-        //     "Hey, This email is send to ensure that the nodemailsender is working properly"
+        //     "Thanks, for showing support bro don't worry i won't break the streak"
         // )
 
        
